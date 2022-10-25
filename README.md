@@ -4,4 +4,4 @@ Created Using HTML and CSS
 
 Visit here!!!
 
-https://howrorstories.netlify.app/about.html
+https://howrorstories.netlify.app/index.html
